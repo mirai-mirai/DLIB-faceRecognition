@@ -38,7 +38,9 @@ The code is heavily inspired by the [face_recognition](https://github.com/ageitg
 
 ## How to run
 Simply run the command `python facerec_dlib.py`.
+
 Beforehand, you must put face images into 'faces' folder.
+
 To quit, press 'q' key, 
 
 ```bash
