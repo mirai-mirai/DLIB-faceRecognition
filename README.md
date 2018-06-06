@@ -5,6 +5,28 @@ This is a face recognition system using DLIB.
 ## Compatibility
 The code is tested using DLIB 19.10.0 under Ubuntu 16.04 with Python 3.6.5. 
 
+Other needed libraries are below.
+
+| Name | Version |
+|----------|--------|
+|google-api-python-client |1.7.1 |
+|google-auth              |1.5.0  |  
+|google-auth-httplib2     |0.0.3   | 
+|httplib2                 |0.11.3   |
+|mkl-fft                  |1.0.0    |
+|mkl-random               |1.0.1    |
+|numpy                    |1.14.3   |
+|oauth2client             |4.1.2    |
+|opencv-contrib-python    |3.4.1.15 |
+|Pillow                   |5.1.0    |
+|PyAudio                  |0.2.11   |
+|PyDrive                  |1.3.1    |
+|PyYAML                   |3.12     |
+|rsa                      |3.4.2    |
+|six                      |1.11.0   |
+
+
+
 ## News
 | Date     | Update |
 |----------|--------|
