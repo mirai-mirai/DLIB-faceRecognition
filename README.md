@@ -1,10 +1,5 @@
 # DLIB-faceRecognition
 
-# Face Recognition using Tensorflow [![Build Status][travis-image]][travis]
-
-[travis-image]: http://travis-ci.org/davidsandberg/facenet.svg?branch=master
-[travis]: http://travis-ci.org/davidsandberg/facenet
-
 This is a face recognition system using DLIB.
 
 ## Compatibility
