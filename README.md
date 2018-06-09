@@ -1,5 +1,8 @@
 # DLIB-faceRecognition
 
+![Alt text](demo.gif?raw=true "Title")
+
+
 This is a face recognition system using DLIB.
 
 ## Compatibility
