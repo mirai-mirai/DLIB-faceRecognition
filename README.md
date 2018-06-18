@@ -58,11 +58,11 @@ faces
   |   |--face1.jpg
   |   |--face2.jpg
   |   |--face2.jpg
-  |   |--black
+  |   |--black   <- specify that this person is black-listed.
   |--name3
       |--face1.jpg
       |--face2.jpg
-      |--vip
+      |--vip     <- specify that this person is vip-listed.
 ```
 
 To quit, press 'q' key, 
