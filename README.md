@@ -3,7 +3,7 @@
 ![Alt text](demo.gif?raw=true "Title")
 
 
-This is a face recognition system using DLIB.
+This is a face recognition sample using DLIB.
 
 ## Compatibility
 The code is tested using DLIB 19.10.0 under Ubuntu 16.04 with Python 3.6.5. 
